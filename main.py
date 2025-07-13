@@ -356,7 +356,7 @@ if __name__ == "__main__":
     uvicorn.run(
         app,
         host="0.0.0.0",  # Listen on all interfaces
-        port=8000,
+        port=80,
         workers=1,  # Single worker for demo, increase for production
         log_level="info",
         access_log=True
