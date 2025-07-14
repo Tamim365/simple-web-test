@@ -149,7 +149,7 @@ async def root():
     <body>
         <div class="container">
             <div class="header">
-                <h1>🚀 JBC FastAPI Demo Application</h1>
+                <h1>🚀 AWS FastAPI Demo Application</h1>
                 <p>A comprehensive FastAPI application ready for EC2 deployment</p>
             </div>
             
