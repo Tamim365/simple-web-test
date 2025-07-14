@@ -14,7 +14,7 @@ from typing import Dict, Any
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="AWS Demo Application",
+    title="JBC Demo Application",
     description="A sample FastAPI application for AWS EC2 deployment demonstration",
     version="1.0.0"
 )
