@@ -14,7 +14,7 @@ from typing import Dict, Any
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="JBC Demo Application",
+    title="AWS Demo Application",
     description="A sample FastAPI application for AWS EC2 deployment demonstration",
     version="1.0.0"
 )
@@ -149,7 +149,7 @@ async def root():
     <body>
         <div class="container">
             <div class="header">
-                <h1>🚀 AWS FastAPI Demo Application</h1>
+                <h1>🚀 JBC FastAPI Demo Application</h1>
                 <p>A comprehensive FastAPI application ready for EC2 deployment</p>
             </div>
             
